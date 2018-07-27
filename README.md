@@ -1,4 +1,4 @@
-#Modula2
+# Modula2
 
 Modula2 es un idioma inventado para el [curso de Fundamentos de Javascript en Platzi](https://platzi.com/js)
 de [Platzi](https://platzi.com), el mejor sitio de educación online.
