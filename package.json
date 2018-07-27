@@ -1,7 +1,7 @@
 {
   "name": "modula2",
   "version": "0.1.0",
-  "description": "A package to deploy to npm",
+  "description": "A package to transcript in modula2 lenguage",
   "main": "dist/src/modula2.js",
   "scripts": {
     "build": "babel src/modula2.js -d dist",
