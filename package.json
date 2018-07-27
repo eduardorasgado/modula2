@@ -1,0 +1,30 @@
+{
+  "name": "modula2",
+  "version": "0.1.0",
+  "description": "A package to deploy to npm",
+  "main": "dist/src/modula2.js",
+  "scripts": {
+    "build": "babel src/modula2.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardorasgado/modula2.git"
+  },
+  "keywords": [
+    "fundamentosJS",
+    "JS",
+    "paquete"
+  ],
+  "author": "Eduardo Rasgado Ruiz <eduardo.rasgado@hotmail.com> (https://lalodigitaliza.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardorasgado/modula2/issues"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
